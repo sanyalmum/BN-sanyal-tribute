@@ -59,20 +59,19 @@ export default function HomePage() {
           “A life of innovation, discipline, and quiet generosity.”
         </p>
 
-        <div
-          style={{
-            width: "320px",
-            height: "420px",
-            margin: "0 auto",
-            backgroundColor: "#27272a",
-            borderRadius: "20px",
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
-          }}
-        >
-          Portrait Placeholder
-        </div>
+       <img
+  src="/birendranath-sanyal.jpg"
+  alt="Birendranath Sanyal"
+  style={{
+    width: "320px",
+    maxWidth: "90%",
+    borderRadius: "20px",
+    margin: "0 auto",
+    display: "block",
+    filter: "grayscale(100%)",
+    boxShadow: "0 20px 40px rgba(0,0,0,0.5)"
+  }}
+/>
       </section>
 
       {/* Biography */}
