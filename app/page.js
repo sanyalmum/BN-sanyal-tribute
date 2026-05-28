@@ -301,7 +301,7 @@ export default function HomePage() {
             fontSize: "20px",
           }}
         >
-          This gallery will gradually expand with photographs,
+          This gallery shall gradually expand with photographs,
           memories, and archival moments celebrating the life
           and legacy of Birendranath Sanyal.
         </p>
